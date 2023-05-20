@@ -1,0 +1,98 @@
+.dorowet {
+    margin: 50px auto;
+    max-width: 100%;
+    padding: 5% 5%;
+    overflow: auto;
+}
+.dorowet_container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between;
+    border: 2px solid #d6d6d6;
+    gap: 80px;
+}
+.dorwet h1 {
+    font-size: 50px;
+    font-weight: 900;
+    margin: 0;
+}
+
+.dorowet h2 {
+    font-size: 50px;
+}
+.dorowet ul {
+    list-style: disc;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.ingredients li{
+    list-style: none;
+    text-decoration: none;
+    
+}
+.dorowet img {
+    width: 40%;
+    height: 500px;
+}
+.info{
+    width: 50%;
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ingredients{
+    width: 50%;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #d6d6d6;
+}
+.ingredients h2{
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.5;
+
+}
+.ingredients ul{
+    margin-top: 50px;
+    text-align: left;
+}
+.ingredients li{
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+    line-height: 2;
+    
+}
+
+.instruction{
+    width: 65%;
+    margin-top: 100px;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #d6d6d6;
+    gap: 80px;
+}
+.instruction h2{
+    margin:0 10px;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 1.5;
+
+}
+.instruction ol{
+    margin-top: 50px;
+    text-align: left;
+}
+.instruction li{
+    font-size: 18px;
+    color: #333;
+    font-weight: 500;
+    line-height: 2;
+    
+}
