@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Ethiopian-Cuisine-and-Cultural-Hub/static/css/main.49051c3b.css",
+    "main.js": "/Ethiopian-Cuisine-and-Cultural-Hub/static/js/main.e06fde5d.js",
+    "static/media/Logo.png": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/Logo.a866d4fb74cd1657cab0.png",
+    "static/media/kitfo.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/kitfo.ae50efcc87571a134a01.jpg",
+    "static/media/misir.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/misir.743c2e7e544798a9ebd6.jpg",
+    "static/media/shiro.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/shiro.b30562866201b2de693f.jpg",
+    "static/media/cusine.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/cusine.0ac10ed7a61dba89daa5.jpg",
+    "static/media/dorowet.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/dorowet.e1d7f13794c9d29cfc51.jpg",
+    "static/media/artMusic.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/artMusic.54abfb391380e9cbec6e.jpg",
+    "static/media/landscape.jpg": "/Ethiopian-Cuisine-and-Cultural-Hub/static/media/landscape.3aed06c131d5a65f56a8.jpg",
+    "index.html": "/Ethiopian-Cuisine-and-Cultural-Hub/index.html",
+    "main.49051c3b.css.map": "/Ethiopian-Cuisine-and-Cultural-Hub/static/css/main.49051c3b.css.map",
+    "main.e06fde5d.js.map": "/Ethiopian-Cuisine-and-Cultural-Hub/static/js/main.e06fde5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49051c3b.css",
+    "static/js/main.e06fde5d.js"
+  ]
+}
