@@ -12,11 +12,11 @@ const Navbar = () => {
     const Menu = () =>{
       return(
       <>
-              <Link to="/">Home</Link>
-              <a href="/about">About Us</a>
-              <a href="/cuisine">Cuisine</a>
-              <a href="/arts&music">Art &amp; Music</a>
-              <a href="/contact">Contact Us</a>
+              <Link to="/Ethiopian-Cuisine-and-Cultural-Hub/">Home</Link>
+              <a href="/Ethiopian-Cuisine-and-Cultural-Hub/about">About Us</a>
+              <a href="/Ethiopian-Cuisine-and-Cultural-Hub/cuisine">Cuisine</a>
+              <a href="/Ethiopian-Cuisine-and-Cultural-Hub/arts&music">Art &amp; Music</a>
+              <a href="/Ethiopian-Cuisine-and-Cultural-Hub/contact">Contact Us</a>
       </>
       )
     }

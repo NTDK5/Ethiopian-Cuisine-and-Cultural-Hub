@@ -18,13 +18,13 @@ function App() {
         <title>Ethiopian Cuisine and Culture Hub</title>
       </head>
       <Routes>
-        <Route path='/' Component={Home} />
-        <Route path="/about" Component={ About} />
-        <Route path='/cuisine' Component={Cuisine} />
-        <Route path='/arts&music' Component={ArtMusic} />
-        <Route path='/dorowet' Component={Dorowet} />
-        <Route path='/kitfo'   Component={Kitfo} />
-        <Route path='/contact' Component={Contact} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub' Component={Home} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/about' Component={ About} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/cuisine' Component={Cuisine} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/arts&music' Component={ArtMusic} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/dorowet' Component={Dorowet} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/kitfo'   Component={Kitfo} />
+        <Route path='/Ethiopian-Cuisine-and-Cultural-Hub/contact' Component={Contact} />
       </Routes>
     </div>
 )}
